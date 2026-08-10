@@ -1,0 +1,12 @@
+<!DOCSTYLE html>
+<html>
+{
+h1 {
+    text-shadow: 2px 2px 4px gray;
+}
+color: Snow;
+background : black;
+font-weight: bold;
+text-align: center;
+}
+<p class="My_Style">This paragraph is written in my style!</p>
